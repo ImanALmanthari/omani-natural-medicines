@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern Color Palette -->
+    <color name="primary">#006782</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#BBE9FF</color>
+    <color name="onPrimaryContainer">#001F29</color>
+
+    <color name="secondary">#4C616B</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#CFE6F1</color>
+    <color name="onSecondaryContainer">#071E26</color>
+
+    <color name="background">#FBFCFE</color>
+    <color name="onBackground">#191C1D</color>
+    <color name="surface">#FBFCFE</color>
+    <color name="onSurface">#191C1D</color>
+
+    <!-- Dark Mode Colors -->
+    <color name="primaryDark">#5ED4FD</color>
+    <color name="onPrimaryDark">#003545</color>
+    <color name="primaryContainerDark">#004D62</color>
+    <color name="onPrimaryContainerDark">#BBE9FF</color>
+
+    <color name="backgroundDark">#191C1D</color>
+    <color name="onBackgroundDark">#E1E3E4</color>
+    <color name="surfaceDark">#191C1D</color>
+    <color name="onSurfaceDark">#E1E3E4</color>
+</resources>
